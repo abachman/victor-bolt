@@ -1,5 +1,0 @@
-package boltdb
-
-import (
-	"testing"
-)
